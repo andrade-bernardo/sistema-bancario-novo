@@ -1,0 +1,26 @@
+# Sistema Bancário com Funções em Python
+
+Este projeto simula um sistema bancário simples, onde é possível realizar operações como **depósito**, **saque**, **visualização de extrato**, **criação de usuários** e **contas bancárias**. O objetivo do desafio é aplicar os conceitos de **funções em Python** para tornar o código mais modular, organizado e reutilizável.
+
+---
+
+##  Funcionalidades
+
+- [x] Criar novo usuário com CPF único
+- [x] Criar nova conta bancária vinculada a um usuário
+- [x] Realizar depósitos e saques com regras de limite
+- [x] Visualizar extrato com histórico de transações
+- [x] Listar todas as contas existentes
+
+---
+
+## Conceitos aplicados
+
+- Funções Python
+- Listas e dicionários
+- Laços e condicionais
+- Modularização de código
+- Entrada e saída de dados no terminal
+
+---
+
